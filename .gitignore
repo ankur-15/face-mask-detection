@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+
+# Model weights (large files)
+models/*.pth
+models/*.pt
+
+# Downloaded face detector weights
+face_detector/*.caffemodel
+
+# Dataset (add your own)
+data/with_mask/
+data/without_mask/
+
+# Outputs
+plots/
+*.mp4
+*.avi
+result_*.jpg
+result_*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
