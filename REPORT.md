@@ -3,12 +3,12 @@
 
 ---
 
-**Student Name:** [Your Name]  
-**Roll Number:** [Your Roll No.]  
+**Student Name:** ANKUR
+**Roll Number:** 22MIM10075  
 **Department:** Computer Science & Engineering  
-**Subject:** Computer Vision / Deep Learning  
-**Submitted To:** [Faculty Name]  
-**Date:** April 2026
+**Subject:** Computer Vision
+**Submitted To:** Dr. AMRITA PARASHAR
+**Date:**07 April 2026
 
 ---
 
