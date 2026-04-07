@@ -152,9 +152,9 @@ python src/detect_file.py --input video.mp4 --mode video --output result.mp4
 
 ## 👤 Author
 
-**Your Name**  
-B.Tech Computer Science | [Your College Name]  
-GitHub: [@your-username](https://github.com/your-username)
+Ankur
+Integrated MTech in AI | VIT Bhopal University
+GitHub: ankur-15 (https://github.com/ankur-15)
 
 ---
 
